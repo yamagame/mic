@@ -1,6 +1,6 @@
 # robot-mic
-はじめてのおしゃべりAIロボットプログラミング講座のサンプル (https://github.com/yamagame/AIRobotSamples) で，ロボットのマイクを制御する為に利用するライブラリです．  
-ashishbajaj99氏のmicライブラリ (https://github.com/ashishbajaj99/mic) を基にしています．  
+はじめてのおしゃべりAIロボットプログラミング講座のサンプル (https://github.com/yamagame/AIRobotSamples) で，ロボットのマイクを制御する為に利用するモジュールです．  
+ashishbajaj99氏のmic (https://github.com/ashishbajaj99/mic) を基にしています．  
 
 License
 ==========
